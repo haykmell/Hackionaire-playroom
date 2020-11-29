@@ -3,7 +3,8 @@
 
 
 ### This is a website of `Quizzes and Games` where we have made the website for children upto 12-13 years of age. They can gain some knowledge by performing quiz and according to their scores they can play various games that we have build to make it interesting for them. ⏲️
-### We have 6 games - HexGL, Ancient Beast, Pacman-Canvas,BreakLock, 3D Car Racer 🏎️ and Pixel Defense. For example If someone scores 15/15 then Ancient beast along with all other games will be unlocked , If someone scores 12/15 car racer along with  will be unlocked, if someone scores 10/15 BreakLock along with games of all the scores below it will be unlocked , If someone scores 8/15 PixelDefense along with games of all the scores below it will be unlocked and if someone scores 5/15 HexGL along with games of all the scores below it  will be unlocked, if less than that then only one game i.e. Pacman-Canvas will be unlocked. Also we have contact page where children can contact us for including the game that they desire .
+
+ We have 6 games - HexGL, Ancient Beast, Pacman-Canvas,BreakLock, 3D Car Racer 🏎️ and Pixel Defense. For example If someone scores 15/15 then Ancient beast along with all other games will be unlocked , If someone scores 12/15 car racer along with  will be unlocked, if someone scores 10/15 BreakLock along with games of all the scores below it will be unlocked , If someone scores 8/15 PixelDefense along with games of all the scores below it will be unlocked and if someone scores 5/15 HexGL along with games of all the scores below it  will be unlocked, if less than that then only one game i.e. Pacman-Canvas will be unlocked. Also we have contact page where children can contact us for including the game that they desire .
 
 
 # Getting Started with Create React App
